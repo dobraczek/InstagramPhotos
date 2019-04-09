@@ -13,7 +13,7 @@ class Photos {
 	public $Token;
 	public $URI;
 	
-	public function __construct($ic = null) {
+	public function __construct() {
 		$this->Token = "";
 		$this->URI = "https://api.instagram.com/v1/users/self/media/recent/?access_token=".$this->Token;
 	}
