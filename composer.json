@@ -1,0 +1,16 @@
+{
+    "name": "InstagramPhotos",
+    "description": "Print Instagram Photos",
+    "keywords": ["instagram"],
+    "homepage": "https://github.com/dobraczek/VirtualUserGeneratorCZ",
+    "license": "LGPL 2.1",
+    "authors": [
+        {
+            "name": "Martin Dobrý",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "files": ["Instagram.php"]
+    }
+}
