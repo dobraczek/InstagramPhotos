@@ -1,6 +1,6 @@
 # InstagramPhotos
 
-Example: http://webscript.cz/InstagramPhotos/
+Example: https://webscript.cz/InstagramPhotos/
 
 ## Link:
 * https://www.instagram.com/developer/clients/manage/
